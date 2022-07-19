@@ -1,0 +1,1 @@
+all code that is not java goes into the static directory
